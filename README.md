@@ -5,6 +5,6 @@
 - Deviled eggs recipe in Appetizer.md
 - Information in info (duh)
 
-#### Jeronimo Mondragon, CPA ####
+#### Created by: Jeronimo Mondragon, CPA ####
 
 #### Prof. Chris Tyler, Seneca Poly. @ Newnham ####
